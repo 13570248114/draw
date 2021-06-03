@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T02:18:06.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="JSLSm6wsAK69_GD7izCP" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-03T02:02:54.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="l-ypQTpHnWPg7yN_OSKi" version="14.6.10" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1038" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -7,30 +7,16 @@
         <mxCell id="JLXV0XZNVWzaatGmjZRa-2" value="&lt;span style=&quot;font-size: 23px&quot;&gt;commander&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="340" y="200" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3j_-m7_8ODEtrv5ekoMe-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="JLXV0XZNVWzaatGmjZRa-3" target="JLXV0XZNVWzaatGmjZRa-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="30" y="560" />
-              <mxPoint x="30" y="222" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JLXV0XZNVWzaatGmjZRa-3" value="&lt;span style=&quot;font-size: 23px&quot;&gt;gate&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="60" y="540" width="470" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JLXV0XZNVWzaatGmjZRa-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JLXV0XZNVWzaatGmjZRa-4" target="JLXV0XZNVWzaatGmjZRa-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLXV0XZNVWzaatGmjZRa-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1;" parent="1" source="JLXV0XZNVWzaatGmjZRa-4" target="JLXV0XZNVWzaatGmjZRa-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JLXV0XZNVWzaatGmjZRa-4" value="&lt;span style=&quot;font-size: 23px&quot;&gt;room&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="470" y="310" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JLXV0XZNVWzaatGmjZRa-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.137;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JLXV0XZNVWzaatGmjZRa-5" target="JLXV0XZNVWzaatGmjZRa-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JLXV0XZNVWzaatGmjZRa-72" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.053;entryY=1.073;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1;" parent="1" source="JLXV0XZNVWzaatGmjZRa-5" target="JLXV0XZNVWzaatGmjZRa-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JLXV0XZNVWzaatGmjZRa-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1;" parent="1" source="JLXV0XZNVWzaatGmjZRa-5" target="JLXV0XZNVWzaatGmjZRa-3" edge="1">
@@ -42,17 +28,16 @@
         <mxCell id="JLXV0XZNVWzaatGmjZRa-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JLXV0XZNVWzaatGmjZRa-6" target="JLXV0XZNVWzaatGmjZRa-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLXV0XZNVWzaatGmjZRa-75" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.934;entryY=1.105;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1;" parent="1" source="JLXV0XZNVWzaatGmjZRa-6" target="JLXV0XZNVWzaatGmjZRa-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JLXV0XZNVWzaatGmjZRa-6" value="&lt;span style=&quot;font-size: 23px&quot;&gt;battlemgr&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="680" y="310" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JLXV0XZNVWzaatGmjZRa-77" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=1;" parent="1" source="JLXV0XZNVWzaatGmjZRa-7" target="JLXV0XZNVWzaatGmjZRa-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLXV0XZNVWzaatGmjZRa-80" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.546;entryY=1.089;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1;" parent="1" source="JLXV0XZNVWzaatGmjZRa-7" target="JLXV0XZNVWzaatGmjZRa-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="JLXV0XZNVWzaatGmjZRa-80" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=1;" parent="1" source="JLXV0XZNVWzaatGmjZRa-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="433" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JLXV0XZNVWzaatGmjZRa-7" value="&lt;span style=&quot;font-size: 23px&quot;&gt;world(router)&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="285" y="420" width="280" height="40" as="geometry" />
@@ -69,21 +54,10 @@
         <mxCell id="JLXV0XZNVWzaatGmjZRa-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JLXV0XZNVWzaatGmjZRa-9" target="JLXV0XZNVWzaatGmjZRa-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3j_-m7_8ODEtrv5ekoMe-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.41;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="JLXV0XZNVWzaatGmjZRa-9" target="JLXV0XZNVWzaatGmjZRa-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="860" y="560" />
-              <mxPoint x="860" y="216" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JLXV0XZNVWzaatGmjZRa-9" value="&lt;span style=&quot;font-size: 23px&quot;&gt;battle&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="590" y="540" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JLXV0XZNVWzaatGmjZRa-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JLXV0XZNVWzaatGmjZRa-10" target="JLXV0XZNVWzaatGmjZRa-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JLXV0XZNVWzaatGmjZRa-73" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.238;entryY=1.073;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1;" parent="1" source="JLXV0XZNVWzaatGmjZRa-10" target="JLXV0XZNVWzaatGmjZRa-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JLXV0XZNVWzaatGmjZRa-10" value="&lt;span style=&quot;font-size: 23px&quot;&gt;match&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeWidth=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -104,8 +78,8 @@
         <mxCell id="JLXV0XZNVWzaatGmjZRa-79" value="连接方向" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="690" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3j_-m7_8ODEtrv5ekoMe-5" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;1. 所有节点向commander节点发起连接&lt;br&gt;&lt;br&gt;2. 所有&lt;span style=&quot;font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;除&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;commander外的节点向world发起连接&lt;br&gt;&lt;br&gt;&lt;/span&gt;3. 所有game向gate发起连接&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="685" y="610" width="160" height="110" as="geometry" />
+        <mxCell id="3j_-m7_8ODEtrv5ekoMe-5" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;1. 所有&lt;span style=&quot;font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;除&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;open sans&amp;#34; , &amp;#34;clear sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;commander外的节点向world发起连接&lt;br&gt;&lt;br&gt;&lt;/span&gt;2. 所有game向gate发起连接&lt;br&gt;&lt;br&gt;3. world之间会互连，因此默认是host_id小的去连host_id大的&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="685" y="610" width="160" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
