@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T03:01:23.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" version="18.0.1" etag="0WhLkFjS9mzewusR7--W" type="github"><diagram id="wjRN6oyabsOSQppJJZU2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-19T10:28:00.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="8UsKvic3_1NIe-UhrvqP" version="18.0.1" type="github">
+  <diagram id="wjRN6oyabsOSQppJJZU2" name="Page-1">
+    <mxGraphModel dx="1038" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oWQb79P9ACjK-fUqo1nW-1" value="&lt;b&gt;BINARY_OP&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="260" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oWQb79P9ACjK-fUqo1nW-2" value="&lt;b&gt;BINARY_OP_ADAPTIVE&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="260" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oWQb79P9ACjK-fUqo1nW-3" value="&lt;b&gt;BINARY_OP_ADD_INT&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="190" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oWQb79P9ACjK-fUqo1nW-4" value="&lt;b&gt;BINARY_OP_SUBTRACT_FLOAT&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="550" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oWQb79P9ACjK-fUqo1nW-5" value="&lt;b&gt;BINARY_OP_ADD_FLOAT&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="120" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oWQb79P9ACjK-fUqo1nW-6" value="&lt;b&gt;BINARY_OP_MULTIPLY_INT&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="480" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oWQb79P9ACjK-fUqo1nW-7" value="&lt;b&gt;BINARY_OP_MULTIPLY_FLOAT&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="410" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oWQb79P9ACjK-fUqo1nW-8" value="&lt;b&gt;BINARY_OP_INPLACE_ADD_UNICODE&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="330" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oWQb79P9ACjK-fUqo1nW-9" value="&lt;b&gt;BINARY_OP_ADD_UNICODE&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="260" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oWQb79P9ACjK-fUqo1nW-12" value="&lt;b&gt;BINARY_OP_SUBTRACT_INT&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="620" width="230" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
